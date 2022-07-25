@@ -3,7 +3,7 @@
     <p align="center"> :sparkles: Projeto Final {Reprograma} - Turma ON15 - :sparkles: <p>
 </h1>
 <p align="center">
-<img src="./assets/imagem_projetofinal.png" width="50%" height="50%"/>
+<a href="https://imgur.com/jj8FB2c"><img src="https://i.imgur.com/jj8FB2c.png" title="source: imgur.com" /></a>
 </p>
 <br>
 
@@ -80,10 +80,6 @@ As seguintes bibliotecas foram aplicadas:
 Arquitetura padrão da API Projeto Apoio à Criança Autista:
 ```
  📁 PROJETO APOIO À CRIANÇA AUTISTA
-   |
-   |-  📁 assets
-   |    |- 📑 
-   |    |- 📑 
    |
    |-  📁 src
    |    |
