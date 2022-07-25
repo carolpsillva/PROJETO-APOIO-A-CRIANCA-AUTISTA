@@ -6,9 +6,9 @@ const controller = require("../controllers/profissionaisController");
 
 router.get("/all",  controller.getAll);
 
-router.get("/cidade",  controller.getByCity);
+router.get("/city",  controller.getByCity);
 
-router.get("/especialidade",  controller.getBySpecialty);
+router.get("/specialty",  controller.getBySpecialty);
 
 router.post("/create", controller.createProfessional);
 
