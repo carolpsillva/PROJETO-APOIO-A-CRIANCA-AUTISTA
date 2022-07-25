@@ -3,7 +3,7 @@
     <p align="center"> :sparkles: Projeto Final {Reprograma} - Turma ON15 - :sparkles: <p>
 </h1>
 <p align="center">
-<a href="https://imgur.com/jj8FB2c"><img src="https://i.imgur.com/jj8FB2c.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jj8FB2c"><img src="https://i.imgur.com/jj8FB2c.png?1" title="source: imgur.com" /></a>
 </p>
 <br>
 
@@ -206,8 +206,7 @@ Isso é só o começo! 🚀
 
 <br>
 
-
-<img src="./assets/imagem.png" /> </td><br> 
+<a href="https://imgur.com/zoqVMHL"><img src="https://i.imgur.com/zoqVMHL.jpg?1" title="source: imgur.com" /></a>
 
 <br>
 
