@@ -6,7 +6,7 @@ const getAll = async (req, res) => {
   try {
 
     const allProfessionais = await Profissionais.find();
-    res.status(200).json({message: "Lista de Profissionais:", allProfessionais});
+    res.status(200).json({message: "Lista de Profissionais", allProfessionais});
 
   } catch(error) {
       return res.status(500).json({ message: error.message })
@@ -47,14 +47,23 @@ const getBySpecialty = async (req, res) => {
 
 const createProfessional = async(req, res) => {
 
-    try {
+       try {
+       
+        const newProfessional = new Profissionais ({
+            
+            nome: req.body.nome,
+            especialidade: req.body.especialidade,
+            identificação: req.body.identificação,
+            estado: req.body.estado,
+            cidade: req.body.cidade,
+            endereço: req.body.endereço,
+            telefone: req.body.telefone,
+            createdAt: new Date()
+            
+})
 
-        const profissionais = await new Profissionais(req.body);
-
-        const saveProfissional = await profissionais.save();
-        
-
-        res.status(201).json({
+        const saveProfissional = await newProfessional.save();
+         res.status(201).json({
             message: "Cadastro realizado com sucesso.",
             saveProfissional
         })
@@ -62,7 +71,6 @@ const createProfessional = async(req, res) => {
         res.status(500).json({message: error.message})
     }
 }
-
 const updateProfessional = async (req, res) => {
 
     try {

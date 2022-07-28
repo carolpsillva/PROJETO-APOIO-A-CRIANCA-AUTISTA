@@ -4,39 +4,39 @@ const profissionaisSchema = new mongoose.Schema({
         id: mongoose.Schema.Types.ObjectId,
 
         nome: {
-            type: [String],
+            type: String,
             required: true
             
         },
 
         especialidade: {
-            type: [String],
+            type: String,
             required : true
 
         },
 
         identificação: {
-            type: [Number],
+            type: Number,
             required: true
         },
 
         estado: {
-            type: [String],
+            type: String,
             required: true
         },
 
         cidade: {
-            type: [String],
+            type: String,
             required: true
         },
 
         endereço: {
-            type: [String],
+            type: String,
             required: true
         },
       
         telefone: {
-            type: [Number],
+            type: Number,
             required: true
         },
 
@@ -48,6 +48,5 @@ const profissionaisSchema = new mongoose.Schema({
 
 
 
-
-module.exports = mongoose.model("Profissionais", profissionaisSchema);
+    module.exports = mongoose.model('Profissionais', profissionaisSchema)
 

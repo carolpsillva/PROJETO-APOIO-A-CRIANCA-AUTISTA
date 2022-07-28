@@ -1,14 +1,15 @@
 <h1 align="center">
     <br>
-    <p align="center"> :sparkles: Projeto Final {Reprograma} - Turma ON15 - sparkles: <p>
+    <p align="center"> :sparkles: Projeto Final {Reprograma} - Turma ON15 - :sparkles: <p>
 </h1>
 <p align="center">
-<img src="./assets/imagem_projetofinal.png" width="50%" height="50%"/>
+<a href="https://imgur.com/jj8FB2c"><img src="https://i.imgur.com/jj8FB2c.png?1" title="source: imgur.com" /></a>
 </p>
 <br>
 
 <br>
-## 💻 Sobre o projeto 
+
+## **Sobre o projeto** 
 
 <br>
 
@@ -19,11 +20,11 @@
 <p align="justify">Em virtude de todos os fatos mencionados, o propósito da API é indicar para pais de crianças autistas em qual cidade, local possam encontrar profissionais (por exemplo: pediatra,neuropediatra,psicólogos,nutricionista infantil,fisioterapeutas,psicopedagogo,fonoaudiólogos e terapeutas ocupacionais )que sejam mais próximo de sua residência.
 <br><br>
 
-## 🚀 Descrição da API Projeto Apoio à Criança Autista
+## **Descrição da API Projeto Apoio à Criança Autista**
 
 <br>
 
-<p align="justify">A API Apoio à Criança Austista permitirá o cadastro de profissionais interessados em fazer parte desta iniciativa.
+<p align="justify">A API Apoio à Criança Autista permitirá o cadastro de profissionais interessados em fazer parte desta iniciativa.
 
 <p align="justify">A construção deste projeto consiste em uma API RESTFull fundamentada no CRUD,integrado com o banco de dados, onde é possível listar todos os profissionais,cadastrar novos profissionais, atualizar os dados e deletar o cadastro do profissional. 
   
@@ -80,10 +81,6 @@ Arquitetura padrão da API Projeto Apoio à Criança Autista:
 ```
  📁 PROJETO APOIO À CRIANÇA AUTISTA
    |
-   |-  📁 assets
-   |    |- 📑 
-   |    |- 📑 
-   |
    |-  📁 src
    |    |
    |    |- 📁 controllers
@@ -114,7 +111,8 @@ Arquitetura padrão da API Projeto Apoio à Criança Autista:
 
 ```
 <br>
-## 🔃 Rotas
+
+## **Rotas**
 
 * local: http://localhost:8080
 
@@ -175,14 +173,15 @@ Arquitetura padrão da API Projeto Apoio à Criança Autista:
         "cidade": "Londrina",
         "endereço": "Centro",
         "telefone": 4331267744,
-        "createdAt": "Mon Jul 25 2022 17:49:29 GMT-0300 (Horário Padrão de Brasília)",
-        "_id": "62df02bbaa9b9e9824b73846",
+        "createdAt": "Thu Jul 28 2022 12:30:58 GMT-0300 (Horário Padrão de Brasília)",
         "__v": 0
-    }
+  }   
 }
     
+```
+<br>
 
-## - Melhorias Futuras :warning:
+## **Melhorias Futuras** :warning:
 
 * Aumentar o alcance por local (mais cidades, incluir estados e etc);
 * Integrar com o Maps para calcular a distância do Profissional mais próxima do Paciente; 
@@ -190,6 +189,9 @@ Arquitetura padrão da API Projeto Apoio à Criança Autista:
 ```
 
 Toda sugestão de melhoria deste projeto será muito bem-vinda!!!
+    
+```
+<br>
 
 ## Agradecimentos :sparkles: :heart:
 
@@ -203,8 +205,7 @@ Isso é só o começo! 🚀
 
 <br>
 
-
-<img src="./assets/imagem.png" /> </td><br> 
+<a href="https://imgur.com/zoqVMHL"><img src="https://i.imgur.com/zoqVMHL.jpg?1" title="source: imgur.com" /></a>
 
 <br>
 
@@ -222,4 +223,3 @@ Criado por **Anna Carolina**.
   
 
 <br>
-
