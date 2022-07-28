@@ -17,7 +17,7 @@
 
 <p align="justify">Dentre todo o processo quis criar essa API com o objetivo principal a importância de ajudar pais de crianças autistas a terem mais acesso a equipe multidisciplinar para Tratamento do Autismo,principalmente em cidades do interior e com poucos habitantes.  
 
-<p align="justify">Em virtude de todos os fatos mencionados, o propósito da API é indicar para pais de crianças autistas em qual cidade, local possam encontrar profissionais (por exemplo: pediatra,neuropediatra,psicólogos,nutricionista infantil,fisioterapeutas,psicopedagogo,fonoaudiólogos e terapeutas ocupacionais )que sejam mais próximo de sua residência.
+<p align="justify">Em resumo, o propósito da API é indicar para pais de crianças autistas em qual cidade, local possam encontrar profissionais (por exemplo: pediatra,neuropediatra,psicólogos,nutricionista infantil,fisioterapeutas,psicopedagogo,fonoaudiólogos e terapeutas ocupacionais) que sejam mais próximo de sua residência.
 <br><br>
 
 ## **Descrição da API Projeto Apoio à Criança Autista**
@@ -32,7 +32,7 @@
 
 ## **Link**
 
-- [Apresentação]()
+- [Apresentação](https://www.canva.com/design/DAFHddKOq-Q/6t0GWs__EvEBUORGZ1_K0g/view?utm_content=DAFHddKOq-Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 
@@ -186,6 +186,7 @@ Arquitetura padrão da API Projeto Apoio à Criança Autista:
 * Aumentar o alcance por local (mais cidades, incluir estados e etc);
 * Integrar com o Maps para calcular a distância do Profissional mais próxima do Paciente; 
 * Implantação de código HTML e CSS para criação de uma interface capaz de possibilitar a interação do usuário com aplicação;
+* Sistema de login e autenticação;
 ```
 
 Toda sugestão de melhoria deste projeto será muito bem-vinda!!!
@@ -195,7 +196,7 @@ Toda sugestão de melhoria deste projeto será muito bem-vinda!!!
 
 ## Agradecimentos :sparkles: :heart:
 
-Este projeto eu dedico e agradeço a [{reprograma :purple_heart:}](https://reprograma.com.br/) pela oportunidade de poder fazer parte desse programa maravilhoso. À todas as minhas colegas maravilhosas da turma On15 :purple_heart:},também agradeço a todas as professoras que foram incríveis ao longo de todo o processo, também a psicóloga <a href="https://www.linkedin.com/in/juliana-souza-farias-59506bb6/">Juliana Farias</a> que foi fundamental durante toda essa jornada e em especial a [Hanna](https://github.com/HannahFreitas) que segurou a nossa mão e nos apoiou muito.
+Este projeto eu dedico e agradeço a [{reprograma :purple_heart:}](https://reprograma.com.br/) pela oportunidade de poder fazer parte desse programa maravilhoso. À todas as minhas colegas maravilhosas da turma On15 :purple_heart:,também agradeço a todas as professoras que foram incríveis ao longo de todo o processo, também a psicóloga <a href="https://www.linkedin.com/in/juliana-souza-farias-59506bb6/">Juliana Farias</a> que foi fundamental durante toda essa jornada e em especial a [Hanna](https://github.com/HannahFreitas) que segurou a nossa mão e nos apoiou muito.
 
 Nunca se esqueça CONFIE NO PROCESSO! :purple_heart:
 
